@@ -15,6 +15,7 @@ async function generate() {
   await Promise.all(
     posts.map(async (name) => {
       if (name.startsWith('index.')) return
+      if (name.startsWith('_')) return
 
       const content = await fs.readFile(
         path.join(__dirname, '..', 'pages', 'posts', name)
