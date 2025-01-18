@@ -2,7 +2,7 @@
 title: Dockerのoverlay2ディレクトリが肥大化してしまった場合の対処法
 date: 2020/11/30
 description: Dockerのoverlay2ディレクトリが肥大化してしまった場合の対処法
-tag: Docker 小ネタ
+tag: Docker, 小ネタ
 author: You
 ---
 
