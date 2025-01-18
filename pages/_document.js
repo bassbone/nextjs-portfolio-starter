@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: "bassbone's blog",
     description: "bassbone's blog is a blog about web development, programming, and more.",
-    image: '/images/ファミコン-165x16.webp'
+    image: '/images/ファミコン-16x16.webp'
   }
 
   return (
